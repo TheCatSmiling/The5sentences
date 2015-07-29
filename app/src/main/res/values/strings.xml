@@ -1,0 +1,16 @@
+<resources>
+    <string  name="app_name" translatable="false">The5sentences</string>
+    <string name="sentences" translatable="false">The 5 sentences you need to know in spanish</string>
+    <string name="name" translatable="false">Type Your Name</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="start" translatable="false"> Start</string>
+    <string name="intro" translatable="false">This is a simple app that will try to teach you 5 simple sentences in Spanish that will always come in handy. </string>
+<string name="click">Click on a phrase and see its translation to spanish </string>
+    <string-array name="sentences">
+        <item>Hi, my name is :</item>
+        <item>Will you help me ?</item>
+        <item>I need to go to the bathroom.</item>
+        <item>I am name and my friend is: </item>
+        <item>What time is it?</item>
+    </string-array>
+</resources>
